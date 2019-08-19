@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MoneyNotesApp</string>
+    <string name="action_filter">Filter</string>
+</resources>
